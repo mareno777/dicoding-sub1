@@ -26,7 +26,7 @@
        <input type="submit" name="load_data" value="Load Data" />
  </form>
  <?php
-    $host = "<dicodingreno.database.windows.net>";
+    $host = "<dicodingreno.database.windows.net,1433>";
     $user = "<mareno>";
     $pass = "<Shalom7007>";
     $db = "<dicodingdb>";
